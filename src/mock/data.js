@@ -2,24 +2,24 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: `Buford Eeds`, // e.g: `Name | Developer`
+  title: `Buford Eeds | Software Developer`, // e.g: `Name | Developer`
   lang: `en`, // e.g: en, es, fr, jp
-  description: `Welcome to my website`, // e.g: Welcome to my website
+  description: `I'm Buford, a software developer from Austin, TX`, // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: ``,
-  name: `Buford Eeds`,
-  subtitle: `I'm an unemployed software developer`,
-  cta: `Please Hire Me`,
+  title: `Hello! My name is`,
+  name: `Buford`,
+  subtitle: `I am a software developer.`,
+  cta: `About Me`,
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: `square-wyoming.JPG`,
-  paragraphOne: `I am a web developer with experience in Javascript, React, and Ruby on Rails. I love creating things and challenging myself to learn something new everyday.`,
-  paragraphTwo: `After the Marine Corps I spent my time searching for a career I loved but I never found it. However, throughout that time I noticed I had an itch for development. With some self teaching and a 4 month long coding bootcamp, I am finally scratching that itch and I've never been happier!`,
+  paragraphOne: `Diligent and assertive Marine Corp veteran with a knack for solving problems and web development. After attending Flatiron School's rigorous 4-month Software Engineering bootcamp, I gained fundamental experience in Javascript, React, Ruby on Rails and couldn't be happier!`,
+  paragraphTwo: `Armed with a array of several web applications and a love for software development, I'm now seeking to extend my passion and these newfound skills into real-time applications.`,
   paragraphThree: `Feel free to checkout my resume and projects to see how far I've come.`,
   resume: `https://docs.google.com/document/d/e/2PACX-1vSWtGPla-o-gRuC2fe8DWhcitr9iNnUshHUatKyeT2R0MLjxJwTSiCFOqKjHwyPuZNkCPY70JFMHqP5/pub`, // if no resume, the button will not show up
 };
