@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: `square-wyoming.JPG`,
-  paragraphOne: `Diligent and assertive Marine Corps veteran with a knack for solving problems and web development. After attending Flatiron School's rigorous 4-month Software Engineering bootcamp, I gained fundamental experience in Javascript, React, Ruby on Rails and couldn't be happier!`,
-  paragraphTwo: `Armed with a array of several web applications and a love for software development, I'm now seeking to extend my passion and these newfound skills into real-time applications.`,
+  paragraphOne: `Diligent and assertive Marine Corps veteran with a knack for solving problems and web development. After attending Flatiron School's rigorous 4-month Software Engineering bootcamp, I gained fundamental experience in Javascript, React, Ruby on Rails and I couldn't be happier!`,
+  paragraphTwo: `Armed with a array of several web applications and a love for software development, I am now seeking to extend my passion and these newfound skills into real-time applications.`,
   paragraphThree: `Feel free to checkout my resume and projects to see how far I've come.`,
   resume: `https://docs.google.com/document/d/e/2PACX-1vSWtGPla-o-gRuC2fe8DWhcitr9iNnUshHUatKyeT2R0MLjxJwTSiCFOqKjHwyPuZNkCPY70JFMHqP5/pub`, // if no resume, the button will not show up
 };
