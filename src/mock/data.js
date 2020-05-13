@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: `square-wyoming.JPG`,
+  img: `buford.JPG`,
   paragraphOne: `Diligent and assertive Marine Corps veteran with a knack for solving problems and web development. After attending Flatiron School's rigorous 4-month Software Engineering bootcamp, I gained fundamental experience in Javascript, React, Ruby on Rails and I couldn't be happier!`,
   paragraphTwo: `Armed with an array of several web applications and a love for software development, I am now seeking to extend my passion and these newfound skills into real-time applications.`,
   paragraphThree: `Feel free to checkout my resume and projects to see how far I've come.`,
